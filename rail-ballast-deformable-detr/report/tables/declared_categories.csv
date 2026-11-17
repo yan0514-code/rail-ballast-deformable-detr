@@ -1,0 +1,9 @@
+﻿类别ID,类别名,训练集数量,验证集数量
+1,person,0,10
+2,bicycle,0,0
+3,car,0,0
+4,motorcycle,0,0
+5,airplane,0,0
+6,bus,0,0
+7,train,0,0
+8,truck,0,0
